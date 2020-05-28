@@ -1,3 +1,7 @@
+GPATH
+GRTAGS
+GTAGS
+
 # Compiled Object files
 *.slo
 *.lo
@@ -34,7 +38,7 @@
 #depends
 depends.mk
 *_test
-thirdsrc
+#thirdsrc
 thirdparty
 output
 .build
